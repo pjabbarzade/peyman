@@ -2,6 +2,18 @@
 layout: homepage
 ---
 
+## About Me
+  I'm a third-year PhD student in University of Maryland, College Park, Maryland, supervised by [Prof. Hajiaghayi]([https://odin.mdacc.tmc.edu/~wwang7/tutorials.html](https://www.cs.umd.edu/~hajiagha/)). I obtained my Bachelor's and Master's degree in Computer Engineering from Sharif University of Technology, advised by [Prof. Abam](https://sharif.edu/~abam/).
+  In Summer 2019, I had an internship in Max-Planck Institute of Informatics working on developing energy-efficient algorithms for scheduling with [Prof. Antoniadis](https://antoniosantoniadis.github.io/).
+  Currently, I am part of Theoretical Computer Science group at UMD. I like to work on designing algoirthms, especially for complex graph theory problems. My favorite paper is about designing an algorithm for prize-collecting Steiner forest.
+  
+
+  I'm a third-year Ph.D. student at the University of Maryland, College Park, under the supervision of Prof. Hajiaghayi. I earned my Bachelor's and Master's degrees in Computer Engineering from Sharif University of Technology, where I was advised by Prof. Abam.
+
+  During the summer of 2019, I interned at the Max-Planck Institute of Informatics, where I was supervised by Prof. Antoniadis. We collaborated on developing energy-efficient scheduling algorithms.
+
+  Currently, I am part of the Theoretical Computer Science group at UMD. My research interests primarily focus on designing algorithms, particularly for complex graph theory problems. My favorite project revolves around the design of an algorithm for the prize-collecting Steiner forest problem. I am also intersted in optimizing submodular functions, which has wide application in machine learning.
+
 ## Research Interests
 
 - **Optimization:** submodular maximization, scheduling
@@ -9,7 +21,8 @@ layout: homepage
 
 ## News
 
-- **[Jan 2024]** I presented our paper about 2-approximation algorithm for Steiner forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Virginia, US.
+- **[Jan 2024]** I presented our paper about 2-approximation algorithm for prize-collecting Steiner forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Alexandria, US.
+- **[Dec 2023]** I presented poster for dynamic matroid submodular maximization at [NeurIPS 2023](https://neurips.cc/Conferences/2023)) in New Orleans, US.
 
 ## Publications
 
@@ -17,49 +30,49 @@ layout: homepage
   <br>
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
   <br>
+  ACM-SIAM Symposium on Discrete Algorithms. **SODA 2024**. <strong><i style="color:#e74d3c">Selected for Special Issue</i></strong>
+  <br>
+  [[PDF](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977912.25)] [[Slides](./assets/files/PCSF.pdf)] 
+
+- **Dynamic Algorithms for Matroid Submodular Maximization**
+  <br>
+  Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
+  <br>
   ACM-SIAM Symposium on Discrete Algorithms. **SODA 2024**.
   <br>
-  [[PDF](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977912.25)] [[Slides](./assets/files/PCSF.pdf)] <strong><i style="color:#e74d3c">Special Issue</i></strong>
+  [[PDF](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977912.125)]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Dynamic Non-monotone Submodular Maximization**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  37th Conference on Neural Information Processing Systems. **NeurIPS 2023**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
+  [[PDF](https://openreview.net/pdf?id=0K1ZTfHZ0N)] [[Code](https://openreview.net/attachment?id=0K1ZTfHZ0N&name=supplementary_material)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73065.png?t=1702419770.1895626)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Dynamic Constrained Submodular Optimization with Polylogarithmic Update Time**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  Kiarash Banihashem, Leyla Biabani, Samira Goudarzi, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Morteza Monemizadeh
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  40th International Conference on Machine Learning. **ICML 2023**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
+  [[PDF](https://proceedings.mlr.press/v202/banihashem23a/banihashem23a.pdf)] [[Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24200.png?t=1690313136.010699)]
 
 
-## Selected Talks
+- **A novel prediction setup for online speed-scaling**
+  <br>
+  Antonios Antoniadis, **Peyman Jabbarzade Ganje**, Golnoosh Shahkarami
+  <br>
+  18th Scandinavian Symposium and Workshops on Algorithm Theory. **SWAT 2022**.
+  <br>
+  [[PDF](https://drops.dagstuhl.de/storage/00lipics/lipics-vol227-swat2022/LIPIcs.SWAT.2022.9/LIPIcs.SWAT.2022.9.pdf)]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  NeurIPS Official Meetups
-  <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
 
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
+## Awards
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
-
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- **Asia west champion** in International Collegiate Programming Contest (ICPC) world final contest, 2018.
+- **14th place** in International Collegiate Programming Contest (ICPC) world final contest, 2016.
+- **Champions** in International Collegiate Programming Contest (ICPC) Tehran regional contest, 2015 and 2016.
+- **[Bronze medal](https://stats.ioinformatics.org/people/5616)** in International Olympiad in Informatics (IOI), 2015.
+- **Gold medal** in Asia-Pacific Informatics Olympiad (APIO), 2015.
+- **Gold medal** in Iranian National Olympiad in Informatics (IOI), 2014.
