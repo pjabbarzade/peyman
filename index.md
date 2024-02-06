@@ -3,14 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-  I'm a third-year PhD student in University of Maryland, College Park, Maryland, supervised by [Prof. Hajiaghayi]([https://odin.mdacc.tmc.edu/~wwang7/tutorials.html](https://www.cs.umd.edu/~hajiagha/)). I obtained my Bachelor's and Master's degree in Computer Engineering from Sharif University of Technology, advised by [Prof. Abam](https://sharif.edu/~abam/).
-  In Summer 2019, I had an internship in Max-Planck Institute of Informatics working on developing energy-efficient algorithms for scheduling with [Prof. Antoniadis](https://antoniosantoniadis.github.io/).
-  Currently, I am part of Theoretical Computer Science group at UMD. I like to work on designing algoirthms, especially for complex graph theory problems. My favorite paper is about designing an algorithm for prize-collecting Steiner forest.
-  
+  I'm a third-year Ph.D. student at the University of Maryland, College Park, under the supervision of [Prof. Hajiaghayi](https://www.cs.umd.edu/~hajiagha/). I earned my Bachelor's and Master's degrees in Computer Engineering from Sharif University of Technology, where I was advised by [Prof. Abam](https://sharif.edu/~abam/).
 
-  I'm a third-year Ph.D. student at the University of Maryland, College Park, under the supervision of Prof. Hajiaghayi. I earned my Bachelor's and Master's degrees in Computer Engineering from Sharif University of Technology, where I was advised by Prof. Abam.
-
-  During the summer of 2019, I interned at the Max-Planck Institute of Informatics, where I was supervised by Prof. Antoniadis. We collaborated on developing energy-efficient scheduling algorithms.
+  During the summer of 2019, I interned at the Max-Planck Institute of Informatics, where I was supervised by [Prof. Antoniadis](https://antoniosantoniadis.github.io/). We collaborated on developing energy-efficient scheduling algorithms.
 
   Currently, I am part of the Theoretical Computer Science group at UMD. My research interests primarily focus on designing algorithms, particularly for complex graph theory problems. My favorite project revolves around the design of an algorithm for the prize-collecting Steiner forest problem. I am also intersted in optimizing submodular functions, which has wide application in machine learning.
 
