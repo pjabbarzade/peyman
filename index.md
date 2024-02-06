@@ -7,7 +7,7 @@ layout: homepage
 
   During the summer of 2019, I interned at the Max-Planck Institute of Informatics, where I was supervised by [Prof. Antoniadis](https://antoniosantoniadis.github.io/). We collaborated on developing energy-efficient scheduling algorithms.
 
-  Currently, I am part of the Theoretical Computer Science group at UMD. My research interests primarily focus on designing algorithms, particularly for complex graph theory problems. My favorite project revolves around the design of an algorithm for the prize-collecting Steiner forest problem. I am also intersted in optimizing submodular functions, which has wide application in machine learning.
+  I am currently a part of the Theoretical Computer Science group at UMD, where my research interests primarily focus on designing algorithms, particularly for complex graph theory problems. My favorite project revolves around the design of an algorithm for the prize-collecting Steiner forest problem. Additionally, I am interested in optimizing submodular functions, which have wide applications in machine learning.
 
 ## Research Interests
 
