@@ -19,6 +19,13 @@ layout: homepage
 
 ## Publications
 
+- **Prize-Collecting Steiner Tree: A 1.79 Approximation**
+  <br>
+  Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
+  <br>
+  56th ACM Symposium on Theory of Computing. **STOC 2024**. <strong>
+  <br>
+
 - **2-Approximation for Prize-Collecting Steiner Forest**
   <br>
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, **Peyman Jabbarzade**, Mohammad Mahdavi
