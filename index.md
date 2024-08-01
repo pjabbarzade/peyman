@@ -35,6 +35,7 @@ layout: homepage
   <br>
   56th ACM Symposium on Theory of Computing. **STOC 2024**. <strong>
   <br>
+- [[PDF](https://dl.acm.org/doi/pdf/10.1145/3618260.3649789)]
 
 - **2-Approximation for Prize-Collecting Steiner Forest**
   <br>
@@ -58,7 +59,7 @@ layout: homepage
   <br>
   37th Conference on Neural Information Processing Systems. **NeurIPS 2023**.
   <br>
-  [[PDF](https://openreview.net/pdf?id=0K1ZTfHZ0N)] [[Code](https://openreview.net/attachment?id=0K1ZTfHZ0N&name=supplementary_material)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73065.png?t=1702419770.1895626)]
+  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/387982dbf23d9975c7fc45813dd3dabc-Paper-Conference.pdf)] [[Code](https://proceedings.neurips.cc/paper_files/paper/2023/file/387982dbf23d9975c7fc45813dd3dabc-Supplemental-Conference.zip)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73065.png?t=1702419770.1895626)]
 
 - **Dynamic Constrained Submodular Optimization with Polylogarithmic Update Time**
   <br>
@@ -69,7 +70,7 @@ layout: homepage
   [[PDF](https://proceedings.mlr.press/v202/banihashem23a/banihashem23a.pdf)] [[Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24200.png?t=1690313136.010699)]
 
 
-- **A novel prediction setup for online speed-scaling**
+- **A Novel Prediction Setup for Online Speed-Scaling**
   <br>
   Antonios Antoniadis, **Peyman Jabbarzade Ganje**, Golnoosh Shahkarami
   <br>
