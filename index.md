@@ -14,6 +14,7 @@ layout: homepage
 
 ## News
 
+- **[Aug 2024]** I am going to defend [my proposal](./assets/files/proposal.pdf) to advance to Ph.D. candidacy.
 - **[Jun 2024]** Our paper on a dynamic algorithm for weighted submodular cover has been accepted for an oral presentation at [ICML 2024](https://icml.cc/Conferences/2024) in Vienna, Austria.
 - **[Jan 2024]** I gave a presentation on our paper about the 2-approximation algorithm for the prize-collecting Steiner forest at [SODA 2024](https://www.siam.org/conferences/cm/conference/soda24) in Alexandria, US.
 - **[Dec 2023]** I presented a poster on dynamic matroid submodular maximization at [NeurIPS 2023](https://neurips.cc/Conferences/2023) in New Orleans, US.
